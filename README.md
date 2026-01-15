@@ -110,10 +110,11 @@ Nexitally 拥有丰富的服务器落地资源，典型区域包括：
 
 Nexitally 支持所有主流第三方订阅格式，推荐使用以下客户端：
 
-- **Windows **：Clash系列（如Clash Verge Rev、FlClash）
-- **macOS** ：Clash系列（如Clash Verge Rev、FlClash）、Stash 、Surge、
-- **iOS**：Shadowrocket (小火箭)、Stash、Surge、Quantumult X、Loon。
-- **Android**：Surfboard、v2rayNG、Clash系列。
+- **Windows**：Clash 系列（如Clash Verge Rev、FlClash），支持导入订阅链接后统一管理节点；
+- **macOS** ：Clash 系列（如Clash Verge Rev、FlClash）、Shadowrocket 、Quantumult X、Stash 、Surge；
+- **Linux**：Clash 系列（Clash Verge Rev、FlClash 等）；
+- **iOS**：Shadowrocket、Quantumult X、Loon、Stash、Surge（需通过合规渠道获取）；
+- **Android**：Surfboard、v2rayNG、Clash系列，，通过订阅链接导入节点；
 
 ---
 
