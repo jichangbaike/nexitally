@@ -29,9 +29,8 @@ Nexitally（奶昔）成立于 2017 年，是业内公认的顶级（Top 1）机
 5. [平台支持与客户端下载指引](#平台支持与客户端下载指引)  
 6. [订阅获取与导入步骤示例](#订阅获取与导入步骤示例)  
 7. [流媒体与 AI 使用体验概览](#流媒体与-ai-使用体验概览)  
-8. [使用建议与线路选择](#使用建议与线路选择)  
-9. [常见问题 FAQ](#常见问题faq)  
-10. [官方注册入口与使用提示](#官方注册入口与使用提示)
+8. [常见问题 FAQ](#常见问题faq)  
+9. [官方注册入口与使用提示](#官方注册入口与使用提示)
 
 ---
 
@@ -103,7 +102,7 @@ Nexitally 拥有丰富的服务器落地资源，典型区域包括：
 
 ---
 ## 下载测试和流媒体测试
-<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/3523.jpg" alt="Nexitally 下载测试和流媒体测试">
+<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/92kH.jpg" alt="Nexitally 下载测试和流媒体测试">
 
 ---
 
@@ -119,7 +118,7 @@ Nexitally 支持所有主流第三方订阅格式，推荐使用以下客户端�
 
 ## 订阅获取与导入步骤示例
 
-1. **访问官网**：通过 [Nexitally 官方入口](https://nexitally.com) 注册并登录。
+1. **访问官网**：通过 [Nexitally 官方入口](https://finalto.xyz/JXiZgQ)注册并登录。
 2. **购买套餐**：在“商店”选择 Smart Access 套餐并支付。
 3. **获取订阅**：在用户中心点击“快速导入”或复制订阅链接。
 4. **客户端配置**：将链接粘贴至对应的客户端，更新节点列表，选择节点后开启代理。
