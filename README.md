@@ -110,9 +110,10 @@ Nexitally 拥有丰富的服务器落地资源，典型区域包括：
 
 Nexitally 支持所有主流第三方订阅格式，推荐使用以下客户端：
 
-- **Windows / macOS**：Clash Verge Rev、V2RayN、Stash (Mac)。
-- **iOS**：Shadowrocket (小火箭)、Stash、Surge、Quantumult X。
-- **Android**：Surfboard、v2rayNG、Clash Meta 系列。
+- **Windows **：Clash系列（如Clash Verge Rev、FlClash）
+- **macOS** ：Clash系列（如Clash Verge Rev、FlClash）、Stash 、Surge、
+- **iOS**：Shadowrocket (小火箭)、Stash、Surge、Quantumult X、Loon。
+- **Android**：Surfboard、v2rayNG、Clash系列。
 
 ---
 
@@ -136,11 +137,17 @@ Nexitally 支持所有主流第三方订阅格式，推荐使用以下客户端�
 
 ## 常见问题（FAQ）
 
-**Q1：Nexitally 支持多少台设备同时使用？** A：根据套餐说明，Smart Access 系列支持 **2 个** 在线设备。
+**Q1：Nexitally 支持多少台设备同时使用？** 
 
-**Q2：为什么 Nexitally 价格比普通机场贵？** A：奶昔采用自研面板和顶级 BGP 专线，且不超售。其高昂的成本投入换取的是极速的带宽（2000Mbps）和极佳的稳定性，适合对网络有刚需的商务群体。
+A：根据套餐说明，Smart Access 系列支持 **2 个** 在线设备。
 
-**Q3：遇到问题如何解决？** A：请优先通过官网底部的“工单系统”联系技术支持，Nexitally 的售后响应在行业内较为及时。
+**Q2：为什么 Nexitally 价格比普通机场贵？** 
+
+A：奶昔采用自研面板和顶级 BGP 专线，且不超售。其高昂的成本投入换取的是极速的带宽（2000Mbps）和极佳的稳定性，适合对网络有刚需的商务群体。
+
+**Q3：遇到问题如何解决？** 
+
+A：请优先通过官网底部的“工单系统”联系技术支持，Nexitally 的售后响应在行业内较为及时。
 
 ---
 
