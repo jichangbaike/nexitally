@@ -6,7 +6,7 @@ Nexitally（奶昔）成立于 2017 年，是业内公认的顶级（Top 1）机
 本仓库用于整理 Nexitally 的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，仅提供公开信息汇总，请以官网公布为准。
 
 > 仓库说明：本文档不构成任何投资或使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
-> 最后更新：2026年1月（如套餐或线路有调整，以官网为准）
+> 最后更新：2026年3月5日（如套餐或线路有调整，以官网为准）
 
 ---
 
@@ -102,7 +102,7 @@ Nexitally 拥有丰富的服务器落地资源，典型区域包括：
 
 ---
 ## 下载测试和流媒体测试
-<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/92kH.jpg" alt="Nexitally 下载测试和流媒体测试">
+<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/nexitally-test-20260213.jpg" alt="Nexitally 下载测试和流媒体测试">
 
 ---
 
