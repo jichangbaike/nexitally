@@ -23,7 +23,7 @@ Nexitally 支持 Shadowsocks、Trojan 多种协议，采用 **海外精品网络
 - 👉 **Nexitally 官网注册入口**：  
   [点击进入 Nexitally 官网](https://finalto.xyz/JXiZgQ)
 
-建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。后续的订阅获取和客户端配置步骤，可参考本说明文档。
+  建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。后续的订阅获取和客户端配置步骤，可参考本说明文档。
 
 ---
 
@@ -66,8 +66,8 @@ Nexitally 支持 Shadowsocks、Trojan 多种协议，采用 **海外精品网络
   - 追求极致 4K/8K 流媒体体验的用户；  
   - ChatGPT、Claude 等 AI 工具的重度使用者。
 
-整体定位：  
-**面向商务办公与极客玩家的高端专线机场，以自研面板和顶级链路稳定性著称。**
+  整体定位：  
+  **面向商务办公与极客玩家的高端专线机场，以自研面板和顶级链路稳定性著称。**
 
 ---
 
@@ -120,7 +120,13 @@ Nexitally 拥有丰富的服务器落地资源，典型区域包括：
 
 ---
 ## 下载测试和流媒体测试
-<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/nexitally-test-20260213.jpg" alt="Nexitally 下载测试和流媒体测试">
+<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/nexitally-test-20260410.jpg" alt="Nexitally 下载测试">
+
+测试时间：2026-04-10， 网络：联通 2Gbps
+
+<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/nexitally-test-media-20260410.jpg" alt="Nexitally 流媒体测试">
+
+测试时间：2026-04-10， 网络：移动 2Gbps
 
 ---
 
