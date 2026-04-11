@@ -124,7 +124,7 @@ Nexitally 拥有丰富的服务器落地资源，典型区域包括：
 
 测试时间：2026-04-10， 网络：联通 2Gbps
 
-<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/nexitally-test-media-20260410.jpg" alt="Nexitally 流媒体测试">
+<img src="https://raw.githubusercontent.com/jichangbaike/nexitally/refs/heads/main/images/nexitally-test-media-20260410.png" alt="Nexitally 流媒体测试">
 
 测试时间：2026-04-10， 网络：移动 2Gbps
 
