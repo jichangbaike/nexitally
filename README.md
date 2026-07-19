@@ -9,7 +9,7 @@ Nexitally 支持 **Anytls** 协议，采用 **海外精品网络入口 + 专线�
 >
 > 📮 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。
 >
-> 📒 最后更新：**2026-05-27**
+> 📒 最后更新：**2026-07-19**
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -27,10 +27,12 @@ Nexitally 支持 **Anytls** 协议，采用 **海外精品网络入口 + 专线�
 
 ---
 
-## 主要通知
+## 注意事项
 
 - **出于安全考虑，Nexitally 即将停止对Shadowsocks、Shadowsocks2022、Trojan等协议的支持。将仅保留Anytls 协议，请尽快将您软件上的订阅更换为Anytls协议。**
 - 由于国内网络环境发生变化，**入口转战海外精品网络**，延迟有所提高，但是在技术允许范围内做的最大程度优化了。
+- 请不要使用任何第三方订阅转换器、订阅转换API，请不要在任何地方泄露您的账户或订阅信息，任何形式的订阅或账户泄露都将导致您的账户被封禁。
+- 请使用本地网络拉取订阅，不要通过代理拉订阅。
 
 
 ---
@@ -139,8 +141,9 @@ Nexitally 支持所有主流第三方订阅格式，推荐使用以下客户端�
 - **Windows**：Clash 系列（如Clash Verge Rev、FlClash），支持导入订阅链接后统一管理节点；
 - **macOS** ：Clash 系列（如Clash Verge Rev、FlClash）、Shadowrocket 、Quantumult X、Stash 、Surge；
 - **Linux**：Clash 系列（Clash Verge Rev、FlClash 等）；
-- **iOS**：Shadowrocket、Quantumult X、Loon、Stash、Surge（需通过合规渠道获取）；
-- **Android**：Surfboard、v2rayNG、Clash系列，，通过订阅链接导入节点；
+- **iOS**：Shadowrocket、Quantumult X、Loon、Stash、Surge、Clash Mi（需通过合规渠道获取）；
+- **Android**：Surfboard、Clash系列，通过订阅链接导入节点；
+- **路由器**：OpenClash、MerlinClash，通过Clash订阅链接导如节点；
 
 ---
 
@@ -197,5 +200,5 @@ A：请优先通过官网底部的“工单系统”联系技术支持，Nexital
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-05-27`  
-- **Version:** `v1.2`
+- **Last Updated:** `2026-07-19`  
+- **Version:** `v1.3`
