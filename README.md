@@ -9,7 +9,7 @@ Nexitally 支持 **Anytls、SS** 协议，采用 **海外精品网络入口 + �
 >
 > 📮 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。
 >
-> 📒 最后更新：**2026-08-23**
+> 📒 最后更新：**2026-10-25**
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -138,9 +138,9 @@ Nexitally 拥有丰富的服务器落地资源，典型区域包括：
 Nexitally 支持所有主流第三方订阅格式，推荐使用以下客户端：
 
 - **Windows**：Clash 系列（如Clash Verge Rev、FlClash），支持导入订阅链接后统一管理节点；
-- **macOS** ：Clash 系列（如Clash Verge Rev、FlClash）、Shadowrocket 、Quantumult X、Stash 、Surge；
+- **macOS** ：Clash 系列（如Clash Verge Rev、FlClash）、Shadowrocket、Quantumult X、Surge、Stash；
 - **Linux**：Clash 系列（Clash Verge Rev、FlClash 等）；
-- **iOS**：Shadowrocket、Quantumult X、Loon、Stash、Surge、Clash Mi（需通过合规渠道获取）；
+- **iOS**：Shadowrocket、Quantumult X、Surge、Stash、Loon、Clash Mi（需通过合规渠道获取）；
 - **Android**：Surfboard、Clash系列，通过订阅链接导入节点；
 - **路由器**：OpenClash、MerlinClash，通过Clash订阅链接导如节点；
 
@@ -199,5 +199,5 @@ A：请优先通过官网底部的“工单系统”联系技术支持，Nexital
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-08-23`  
-- **Version:** `v1.4`
+- **Last Updated:** `2026-10-25`  
+- **Version:** `v1.5`
